@@ -1,0 +1,12 @@
+C:\Users\luisf\GitHub\ProyectsC-Sharp\QuizArrays\QuizArrays.Logic\bin\Debug\QuizArrays.Logic.dll
+C:\Users\luisf\GitHub\ProyectsC-Sharp\QuizArrays\QuizArrays.Logic\bin\Debug\QuizArrays.Logic.pdb
+C:\Users\luisf\GitHub\ProyectsC-Sharp\QuizArrays\QuizArrays.Logic\obj\Debug\QuizArrays.Logic.csproj.AssemblyReference.cache
+C:\Users\luisf\GitHub\ProyectsC-Sharp\QuizArrays\QuizArrays.Logic\obj\Debug\QuizArrays.Logic.csproj.CoreCompileInputs.cache
+C:\Users\luisf\GitHub\ProyectsC-Sharp\QuizArrays\QuizArrays.Logic\obj\Debug\QuizArrays.Logic.dll
+C:\Users\luisf\GitHub\ProyectsC-Sharp\QuizArrays\QuizArrays.Logic\obj\Debug\QuizArrays.Logic.pdb
+C:\Users\luisf\GitHub\QuizArrayLuisFlorez\QuizArrays\QuizArrays.Logic\bin\Debug\QuizArrays.Logic.dll
+C:\Users\luisf\GitHub\QuizArrayLuisFlorez\QuizArrays\QuizArrays.Logic\bin\Debug\QuizArrays.Logic.pdb
+C:\Users\luisf\GitHub\QuizArrayLuisFlorez\QuizArrays\QuizArrays.Logic\obj\Debug\QuizArrays.Logic.csproj.AssemblyReference.cache
+C:\Users\luisf\GitHub\QuizArrayLuisFlorez\QuizArrays\QuizArrays.Logic\obj\Debug\QuizArrays.Logic.csproj.CoreCompileInputs.cache
+C:\Users\luisf\GitHub\QuizArrayLuisFlorez\QuizArrays\QuizArrays.Logic\obj\Debug\QuizArrays.Logic.dll
+C:\Users\luisf\GitHub\QuizArrayLuisFlorez\QuizArrays\QuizArrays.Logic\obj\Debug\QuizArrays.Logic.pdb
